@@ -1,2 +1,3 @@
-# smartvault-issue-tracker
-Issue tracking for the SmartVault WP Theme
+# Issue Tracking for SmartVault
+
+Track issues for SmartVault 
